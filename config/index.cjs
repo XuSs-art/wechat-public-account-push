@@ -23,7 +23,7 @@ const USER_CONFIG = {
       id: 'oXSiL5lvg28HBEL21WBm0X73RJDk',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'yrRe0kTwWyz-IG1-1cRodwM-Us3iV3nyhE88PBwwD6w',
-      city: '101181103',
+      city: '洛阳',
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
@@ -34,11 +34,23 @@ const USER_CONFIG = {
       name: 'xus',
       id: 'oXSiL5lvg28HBEL21WBm0X73RJDk',
       useTemplateId: 'PTe7pQevpj07w5nxObrYiQmY33tQC1DjIIs5HpibDKo',
-      city: '101181607',
+      city: '洛阳',
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2022-10-23' },
       ],
+    },
+    {
+      name: 'xus',
+      id: 'oXSiL5lvg28HBEL21WBm0X73RJDk',
+      useTemplateId: 'mkIDQ9_eEJ_YJCypHqLaCTal4yLBuwCc2IAwPamF3d0',
+      city: 'CN101181103',
+    },
+    {
+      name: 'xus',
+      id: 'oXSiL5lvg28HBEL21WBm0X73RJDk',
+      useTemplateId: 'KkzRIPrQHFm38bqFJeCyd3YGFr2SSBUeJuIajvsSW2w',
+      city: 'CN101181607',
     },
   ],
    SWITCH: {
