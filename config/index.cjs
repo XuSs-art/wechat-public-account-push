@@ -33,7 +33,7 @@ const USER_CONFIG = {
     {
       name: 'xus',
       id: 'oXSiL5lvg28HBEL21WBm0X73RJDk',
-      useTemplateId: 'PTe7pQevpj07w5nxObrYiQmY33tQC1DjIIs5HpibDKo',
+      useTemplateId: 'Bqh-XiYnNRR9dhruTSwVMrYXosvxevR6egw2wSIa-_g',
       city: '洛阳',
       customizedDateList: [
         // 在一起的日子
@@ -61,7 +61,7 @@ const USER_CONFIG = {
         {
       name: '平舆',
       id: 'oXSiL5gnFhkm1l1BPbKMcnHzfoCM',
-      useTemplateId: 'oXSiL5gnFhkm1l1BPbKMcnHzfoCM',
+      useTemplateId: '71eW_y37E-dluEDNOwunHwjb550stk1Gv0npaKVNi1Y',
       city: '平舆',
     },
   ],
