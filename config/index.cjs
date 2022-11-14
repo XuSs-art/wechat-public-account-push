@@ -49,7 +49,7 @@ const USER_CONFIG = {
     {
       name: '平舆',
       id: 'oXSiL5lvg28HBEL21WBm0X73RJDk',
-      useTemplateId: 'KkzRIPrQHFm38bqFJeCyd3YGFr2SSBUeJuIajvsSW2w',
+      useTemplateId: 't6M16hxhkcvu1xqBKygW9Tp_McTJ074p93cQPVBNyw0',
       city: '平舆',
     },
       {
@@ -61,7 +61,13 @@ const USER_CONFIG = {
         {
       name: '平舆',
       id: 'oXSiL5gnFhkm1l1BPbKMcnHzfoCM',
-      useTemplateId: '71eW_y37E-dluEDNOwunHwjb550stk1Gv0npaKVNi1Y',
+      useTemplateId: 't6M16hxhkcvu1xqBKygW9Tp_McTJ074p93cQPVBNyw0',
+      city: '平舆',
+    },
+      {
+      name: '平舆',
+      id: 'oXSiL5jb5k4ANbo1OcH3yfFwTZ7E',
+      useTemplateId: 't6M16hxhkcvu1xqBKygW9Tp_McTJ074p93cQPVBNyw0',
       city: '平舆',
     },
   ],
