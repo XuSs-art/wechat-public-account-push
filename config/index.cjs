@@ -52,6 +52,12 @@ const USER_CONFIG = {
       useTemplateId: 'KkzRIPrQHFm38bqFJeCyd3YGFr2SSBUeJuIajvsSW2w',
       city: '平舆',
     },
+      {
+      name: '阿迪力',
+      id: 'oXSiL5hWgYc55AKcwnIn7XOPws4s',
+      useTemplateId: 'PTe7pQevpj07w5nxObrYiQmY33tQC1DjIIs5HpibDKo',
+      city: '洛阳',
+    },
   ],
    SWITCH: {
     /** 每日天气 */
