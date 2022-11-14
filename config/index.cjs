@@ -114,7 +114,7 @@ const USER_CONFIG = {
   FESTIVALS_LIMIT: 0,
 TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
-    key: 'a8a4ad3057c5d52a31df2813aae6f6ef',
+    key: 'dfdcfd6efd63ebd20cf1351c286acb47',
     
     /** 天行API相关，需要config中配置 TIAN_API_KEY  */
     // 早安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
