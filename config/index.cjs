@@ -18,7 +18,7 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝',
+      name: '1',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oXSiL5lvg28HBEL21WBm0X73RJDk',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
@@ -41,16 +41,16 @@ const USER_CONFIG = {
       ],
     },
     {
-      name: 'xus',
+      name: '武陟',
       id: 'oXSiL5lvg28HBEL21WBm0X73RJDk',
       useTemplateId: 'mkIDQ9_eEJ_YJCypHqLaCTal4yLBuwCc2IAwPamF3d0',
-      city: 'CN101181103',
+      city: '武陟',
     },
     {
-      name: 'xus',
+      name: '平舆',
       id: 'oXSiL5lvg28HBEL21WBm0X73RJDk',
       useTemplateId: 'KkzRIPrQHFm38bqFJeCyd3YGFr2SSBUeJuIajvsSW2w',
-      city: 'CN101181607',
+      city: '平舆',
     },
   ],
    SWITCH: {
