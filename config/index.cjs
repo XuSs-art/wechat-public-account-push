@@ -52,12 +52,7 @@ const USER_CONFIG = {
       useTemplateId: 't6M16hxhkcvu1xqBKygW9Tp_McTJ074p93cQPVBNyw0',
       city: '平舆',
     },
-      {
-      name: '阿迪力',
-      id: 'oXSiL5hWgYc55AKcwnIn7XOPws4s',
-      useTemplateId: 'PTe7pQevpj07w5nxObrYiQmY33tQC1DjIIs5HpibDKo',
-      city: '洛阳',
-    },
+    
         {
       name: '平舆',
       id: 'oXSiL5gnFhkm1l1BPbKMcnHzfoCM',
